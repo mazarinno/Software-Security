@@ -14,7 +14,7 @@ When working through the process of vulnerability assessment, I found the links 
 
 - How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
 
-I approached the need to increase layers of security by added an encryption algorithm within Artemiis Financial's site. In the future, to assess vulnerabilties and determine mitigation techniques, I would definitely run dependency checks like I have done and also make sure that the overall code is secure itself. 
+I approached the need to increase layers of security by added an encryption algorithm within Artemis Financial's site. In the future, to assess vulnerabilties and determine mitigation techniques, I would definitely run dependency checks like I have done and also make sure that the overall code is secure itself. 
 
 - How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
