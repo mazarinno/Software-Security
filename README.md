@@ -27,3 +27,6 @@ The Spring and Maven frameworks were something that I found interesting as I hav
 - Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
 
 I may want to showcase my use of security certificates and encryption algorithms from this assignment as examples of software security that I have learned from this course. 
+
+![image](https://user-images.githubusercontent.com/15134446/222676402-9e50d805-ca42-4b2c-802a-1084d3cc0dcd.png)
+
